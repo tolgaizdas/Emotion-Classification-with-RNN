@@ -5,4 +5,4 @@ The dataset used can be found [here](https://www.kaggle.com/datasets/nelgiriyewi
 
 GloVe pre-trained word vectors can also be downloaded [here](https://nlp.stanford.edu/projects/glove/).
 
-<sup>*</sup>In this project "Common Crawl (840B tokens, 2.2M vocab, cased, 300d" vectors were used.
+<sup>*</sup>In this project "Common Crawl (840B tokens, 2.2M vocab, cased, 300d)" vectors were used.
