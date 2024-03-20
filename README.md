@@ -1,5 +1,5 @@
 # Emotion-Classification-with-RNN
-Multi-label text classification on a 6 labeled dataset with RNN (GRU) using GloVe<sup>*</sup>.
+Multi-label text classification on a 6 labeled dataset with RNN using GloVe<sup>*</sup>.
 
 Achieved ~90% accuracy on 3-layer GRU model.
 
